@@ -1,4 +1,5 @@
 # U.S. City–State Name Similarity Tool
+Demo at the bottom of the page! I hope you find this interesting!
 
 ---
 
@@ -87,3 +88,9 @@ pip install -r requirements.txt
 - To adapt this for other geographic datasets, only the input CSV structure and column names would need to be changed.
 
 ---
+## Demo
+![CitySimilarityDemo1](https://github.com/user-attachments/assets/b5f082b0-9b0f-452e-a3ed-02448d7fab61)
+
+![CitySimilarityDemo2](https://github.com/user-attachments/assets/f713628d-6c95-4911-a51e-28090811d707)
+
+
